@@ -1,0 +1,41 @@
+*
+{
+     margin: 0;
+     padding: 0;
+     text-decoration: none;
+     box-sizing: border-box;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;   
+}
+
+#qwerty
+{
+    background-color: yellowgreen;
+    border: 2px solid black;
+    border-radius: 50px;
+}
